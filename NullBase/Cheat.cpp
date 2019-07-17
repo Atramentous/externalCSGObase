@@ -103,8 +103,8 @@ int main()
 			glowESP(i);
 		}
 		
-		trigger();
-
+		//trigger();
+		// Trigger bot is disabled till I add some toggles
 
 	
 		Sleep(1);
