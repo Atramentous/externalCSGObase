@@ -1,0 +1,15 @@
+﻿  Entity.cpp
+  LocalPlayer.cpp
+c:\users\xan\desktop\nullbase-master\nullbase\includes.h(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Math.cpp
+c:\users\xan\desktop\nullbase-master\nullbase\includes.h(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\xan\desktop\nullbase-master\nullbase\math.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\xan\desktop\nullbase-master\nullbase\math.cpp(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  NullMemory.cpp
+c:\users\xan\desktop\nullbase-master\nullbase\includes.h(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Cheat.cpp
+c:\users\xan\desktop\nullbase-master\nullbase\includes.h(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  All 35 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  NullBase.vcxproj -> C:\Users\Xan\Desktop\NullBase-master\Release\NullBase.exe
